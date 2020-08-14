@@ -436,7 +436,7 @@ msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Other supported browsers"
-msgstr "Інші підтримувані ,hfepthb"
+msgstr "Інші підтримувані браузери"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Automatically catch downloads from browsers"
